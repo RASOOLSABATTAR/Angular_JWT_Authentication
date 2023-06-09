@@ -1,0 +1,28 @@
+* {
+  font-family: Georgia, serif;
+}
+body {
+  background-color: #9A616D;
+}
+.content {
+  position: absolute;
+  width: 20em;
+  height: auto;
+  border-radius: 5px;
+  padding: 25px;
+  background-color: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(8px);
+  z-index: 9999;
+}
+.forgt {
+  text-decoration: none;
+  font-size: small;
+}
+.up {
+  text-decoration: none;
+}
+
+.sign {
+  font-size: small;
+
+}
